@@ -1,0 +1,10 @@
+{
+  "name": "Statistic",
+  "version": "1.0.0",
+  "title": "Web Statistic",
+  "author": "KaleR",
+  "contact": "mail@schaefti.de",
+  "homepage": "To be documented",
+  "factorio_version": "0.14",
+  "description": "Create statistic files which can be analysed from a web interface (see README.md)"
+}
