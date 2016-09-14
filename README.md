@@ -4,7 +4,7 @@ welcome to this mod. With its help you can easily create a web statistic view.
 
 Either you write your own, or you can just download my simple web view.
 
-Goto to this github page:
+Goto to this github page: https://github.com/schaeftide/statisticWebView
 
 Download and extract the package in a webroot, 
 enable the cronjob (every minute) and write your factorio base path to the config file.
